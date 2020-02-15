@@ -1,4 +1,4 @@
-<p align="center">  <img src="./Figures/GTU_LOGO_1200X768_JPG_EN_Small.jpg" width = 30% > </p>
+<p align="center">  <img src="./Figures/GTU_LOGO_1200X768_JPG_EN_Small.jpg" width = 20% > </p>
 
 ---
 
