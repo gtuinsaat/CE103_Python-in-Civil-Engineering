@@ -1,0 +1,45 @@
+<mxfile host="www.draw.io" modified="2020-02-09T16:53:20.219Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="DreRqKs3dcKxZGIDTMU6" version="12.6.6" type="github" pages="2">
+  <diagram id="SQcvoNyeyUVLhvywJ_SX" name="Introduction">
+    <mxGraphModel dx="1906" dy="1049" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#97D077" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="Sc9BHUI-l9TkpDrYz9W8-1" value="CE103&lt;br style=&quot;font-size: 21px;&quot;&gt;&lt;br style=&quot;font-size: 21px;&quot;&gt;FIGURES" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="188" y="292" width="450" height="280" as="geometry"/>
+        </mxCell>
+        <mxCell id="Sc9BHUI-l9TkpDrYz9W8-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=21;image=http://www.gtu.edu.tr/Files/duyuru/2015/logo.PNG;" parent="1" vertex="1">
+          <mxGeometry x="248" y="41" width="330" height="187" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aPHTOcTUeZBxf8WaxuXB" name="Week01">
+    <mxGraphModel dx="1906" dy="1049" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="mffJ6rKT8tTfzoO9Bly0-0"/>
+        <mxCell id="mffJ6rKT8tTfzoO9Bly0-1" parent="mffJ6rKT8tTfzoO9Bly0-0"/>
+        <mxCell id="mffJ6rKT8tTfzoO9Bly0-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mffJ6rKT8tTfzoO9Bly0-1" source="mffJ6rKT8tTfzoO9Bly0-2" target="mffJ6rKT8tTfzoO9Bly0-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="mffJ6rKT8tTfzoO9Bly0-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mffJ6rKT8tTfzoO9Bly0-1">
+          <mxGeometry x="20" y="20" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="mffJ6rKT8tTfzoO9Bly0-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mffJ6rKT8tTfzoO9Bly0-1" source="mffJ6rKT8tTfzoO9Bly0-3" target="mffJ6rKT8tTfzoO9Bly0-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="mffJ6rKT8tTfzoO9Bly0-3" value="Define range of the numbers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mffJ6rKT8tTfzoO9Bly0-1">
+          <mxGeometry x="20" y="160" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="mffJ6rKT8tTfzoO9Bly0-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mffJ6rKT8tTfzoO9Bly0-1" source="mffJ6rKT8tTfzoO9Bly0-5" target="mffJ6rKT8tTfzoO9Bly0-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="mffJ6rKT8tTfzoO9Bly0-5" value="Take the first value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mffJ6rKT8tTfzoO9Bly0-1">
+          <mxGeometry x="20" y="300" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="mffJ6rKT8tTfzoO9Bly0-7" value="Take the last value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mffJ6rKT8tTfzoO9Bly0-1">
+          <mxGeometry x="20" y="440" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
