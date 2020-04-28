@@ -1,0 +1,19 @@
+{
+ "LectureCodes": [
+  "GTU_CE103",
+  "GTU_CE105",
+  "GTU_CE247"
+ ],
+ "Avg_StudentPerLecture": 75,
+ "NumberOfClass": 12,
+ "Students": [
+  {
+   "Name/Surname": "Braced Frame",
+   "age": 19
+  },
+  {
+   "Name/Surname": "Axial Load",
+   "age": 18
+  }
+ ]
+}
